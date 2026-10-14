@@ -1,5 +1,5 @@
 {
-  "spider": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73",
+  "spider": "./jar/xy_dygang.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
@@ -32,7 +32,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "牛牛资源",
@@ -275,7 +275,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/挺好4K.json",
-      "jar": "./lib/0606.jar"
+      "jar": "./jar/0606.jar"
     },
     {
       "key": "csp_Dygang",
@@ -288,7 +288,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.dygang.tv",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_Dygang_cc",
@@ -301,7 +301,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.dygang.cc",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_seedhub",
@@ -325,7 +325,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://4kmonitor.org",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_New6v",
@@ -338,7 +338,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_Pomo",
@@ -351,7 +351,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://pomo.mom",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_Mp4Mov",
@@ -364,7 +364,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.mp4ba.vip",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_Hdzu",
@@ -377,7 +377,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://hdzu.org",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_Changzhang",
@@ -390,7 +390,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "https://www.4kcz.com",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "奇妙官采",
@@ -1077,7 +1077,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "https://bikamanhuaapp.com",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_Duanjujui",
@@ -1090,7 +1090,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "https://duanjujui.com",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_hema",
@@ -1103,7 +1103,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "kuaikaw",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_xifu",
@@ -1116,7 +1116,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "xifu",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_xingya",
@@ -1129,7 +1129,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "xingya",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_qimiao",
@@ -1142,7 +1142,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "qimiao",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_weiguan",
@@ -1155,7 +1155,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "weiguan",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_manju",
@@ -1168,7 +1168,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "manju",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_55",
@@ -1181,7 +1181,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "duanju55",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_huasheng",
@@ -1194,7 +1194,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "huasheng",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "少儿动漫专区",
@@ -1214,7 +1214,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "xifan",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_modu",
@@ -1227,7 +1227,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "modu",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_dmbus",
@@ -1240,7 +1240,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "dmbus",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_mutefun",
@@ -1253,7 +1253,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "mutefun",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "csp_XyDuanju_rk2",
@@ -1266,7 +1266,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "rk2",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "drpy_js_huya_live",
@@ -1326,7 +1326,7 @@
       "api": "csp_SportAiFeiQiuGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "./jar/xy_newwex.jar",
       "style": {
         "type": "list"
       }
@@ -1338,7 +1338,7 @@
       "api": "csp_SportAiGuaZiGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "./jar/xy_newwex.jar",
       "style": {
         "type": "list"
       }
@@ -1350,7 +1350,7 @@
       "api": "csp_SportAiKanQiuTongGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "./jar/xy_newwex.jar",
       "style": {
         "type": "list"
       }
@@ -1362,7 +1362,7 @@
       "api": "csp_SportAiKanqiuGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916"
+      "jar": "./jar/xy_newwex.jar"
     },
     {
       "key": "SportAiKaFei",
@@ -1371,7 +1371,7 @@
       "api": "csp_SportAiKaFeiGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "./jar/xy_newwex.jar",
       "style": {
         "type": "list"
       }
@@ -1383,7 +1383,7 @@
       "api": "csp_SportAiWweGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "./jar/xy_newwex.jar",
       "style": {
         "type": "list"
       }
@@ -1397,7 +1397,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/美食合集.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xiqu",
@@ -1408,7 +1408,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/晓雨戏曲.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_jieshuo",
@@ -1419,7 +1419,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/晓雨解说.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yinyue",
@@ -1430,7 +1430,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨音乐.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_qiuxing",
@@ -1441,7 +1441,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/晓雨球星.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_wudao",
@@ -1452,7 +1452,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/晓雨舞蹈.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_huwai",
@@ -1463,7 +1463,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/晓雨户外.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_dapei",
@@ -1474,7 +1474,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/晓雨搭配.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_tuxiaobei",
@@ -1485,7 +1485,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "tuxiaobei",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_tuxiaobei2",
@@ -1496,7 +1496,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "tuxiaobei2",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_erge",
@@ -1507,7 +1507,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨儿歌合集.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_youerqimeng",
@@ -1518,7 +1518,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/幼儿启蒙.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yizhi",
@@ -1529,7 +1529,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./lib/益智动画.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_youxiao",
@@ -1540,7 +1540,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/幼小衔接.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_hb",
@@ -1551,7 +1551,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨绘本共读.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_pinyin",
@@ -1562,7 +1562,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童拼音.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_shizi",
@@ -1573,7 +1573,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童识字.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_erying",
@@ -1584,7 +1584,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童英语.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yingbi",
@@ -1595,7 +1595,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童硬笔.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_siwei",
@@ -1606,7 +1606,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童思维.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_koucai",
@@ -1617,7 +1617,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童口才.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_biancheng",
@@ -1628,7 +1628,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童编程.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_wushu",
@@ -1639,7 +1639,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童武术.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xingqu",
@@ -1650,7 +1650,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兴趣培养.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_dengta",
@@ -1661,7 +1661,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小灯塔百科.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_dengta_kexue",
@@ -1672,7 +1672,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小灯塔科学.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_dengta_dili",
@@ -1683,7 +1683,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小灯塔地理.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_dengta_renwen",
@@ -1694,7 +1694,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小灯塔人文.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_shaoer",
@@ -1705,7 +1705,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/少儿教育.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_youerle",
@@ -1716,7 +1716,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/幼儿乐园.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_ertongle",
@@ -1727,7 +1727,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/儿童乐园.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xiaoxue",
@@ -1738,7 +1738,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩哔哩小学.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_chuzhong",
@@ -1749,7 +1749,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩哔哩初中.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_gaozhong",
@@ -1760,7 +1760,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩哔哩高中.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_slj",
@@ -1771,7 +1771,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨四六级.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_jsfz",
@@ -1782,7 +1782,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨教师发展.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xsf",
@@ -1793,7 +1793,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨学生方法.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yecz",
@@ -1804,7 +1804,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨幼儿成长.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_whsy",
@@ -1815,7 +1815,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨文化素养.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_shyh",
@@ -1826,7 +1826,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨生活养护.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_sgsy",
@@ -1837,7 +1837,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨手工摄影.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_flkp",
@@ -1848,7 +1848,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨法律科普.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_cjzc",
@@ -1859,7 +1859,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨财经职场.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_jkys",
@@ -1870,7 +1870,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨健康养生.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_kjcc",
@@ -1881,7 +1881,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨考季冲刺.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_dfzt",
@@ -1892,7 +1892,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨地方真题.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_jizk",
@@ -1903,7 +1903,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨家长课堂.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xqbk",
@@ -1914,7 +1914,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨兴趣百科.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_shjk",
@@ -1925,7 +1925,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨生活健康.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_bgsj",
@@ -1936,7 +1936,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨办公设计.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_zwyd",
@@ -1947,7 +1947,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨作文阅读.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yyjx",
@@ -1958,7 +1958,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨英语专项.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_tbkb",
@@ -1969,7 +1969,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨同步课本.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yuwen",
@@ -1980,7 +1980,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨语文合集.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_shuxue",
@@ -1991,7 +1991,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨数学合集.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yingyu",
@@ -2002,7 +2002,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨英语合集.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_likex",
@@ -2013,7 +2013,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨理化合集.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_wenke",
@@ -2024,7 +2024,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨史地政合集.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_syk",
@@ -2035,7 +2035,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨实验课.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_zsd",
@@ -2046,7 +2046,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨知识点专项.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_jq",
@@ -2057,7 +2057,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨寒暑假.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xsc",
@@ -2068,7 +2068,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨小升初专项.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_zk",
@@ -2079,7 +2079,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨中考专项.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_gk",
@@ -2090,7 +2090,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨高考专项.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_js",
@@ -2101,7 +2101,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨竞赛强基.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_yk",
@@ -2112,7 +2112,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨艺考专项.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_ky",
@@ -2123,7 +2123,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨考研专项.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_gkss",
@@ -2134,7 +2134,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨公考事业.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_zj",
@@ -2145,7 +2145,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨职教考证.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_jk",
@@ -2156,7 +2156,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨驾考.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xlw",
@@ -2167,7 +2167,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨学历论文.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_wy",
@@ -2178,7 +2178,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨外语提升.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_bc",
@@ -2189,7 +2189,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨编程创客.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_mz",
@@ -2200,7 +2200,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨名著精讲.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_bwg",
@@ -2211,7 +2211,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨博物馆.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_aq",
@@ -2222,7 +2222,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨安全急救.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xl",
@@ -2233,7 +2233,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨心理健康.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_shjn",
@@ -2244,7 +2244,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨生活技能.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xxff",
@@ -2255,7 +2255,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨学习方法.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_sz",
@@ -2266,7 +2266,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨素质兴趣.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_dongwu",
@@ -2277,7 +2277,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/晓雨动物世界.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     },
     {
       "key": "xy_xiaoyu_xuexi",
@@ -2288,7 +2288,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/学习园地.json",
-      "jar": "./xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "./jar/xy_dygang.jar"
     }
   ],
   "parses": [
