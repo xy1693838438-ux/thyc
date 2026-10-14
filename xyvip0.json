@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
@@ -32,7 +32,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "牛牛资源",
@@ -288,7 +288,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.dygang.tv",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_Dygang_cc",
@@ -301,13 +301,13 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.dygang.cc",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_seedhub",
       "name": "🧲 自营4K6 ",
       "type": 1,
-      "api": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/seedhub_api.php",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/seedhub_api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -325,7 +325,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://4kmonitor.org",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_New6v",
@@ -338,7 +338,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_Pomo",
@@ -351,7 +351,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://pomo.mom",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_Mp4Mov",
@@ -364,7 +364,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://www.mp4ba.vip",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_Hdzu",
@@ -377,7 +377,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": "https://hdzu.org",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_Changzhang",
@@ -390,7 +390,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "https://www.4kcz.com",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "奇妙官采",
@@ -1077,7 +1077,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "https://bikamanhuaapp.com",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_Duanjujui",
@@ -1090,7 +1090,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "https://duanjujui.com",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_hema",
@@ -1103,7 +1103,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "kuaikaw",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_xifu",
@@ -1116,7 +1116,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "xifu",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_xingya",
@@ -1129,7 +1129,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "xingya",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_qimiao",
@@ -1142,7 +1142,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "qimiao",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_weiguan",
@@ -1155,7 +1155,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "weiguan",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_manju",
@@ -1168,7 +1168,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "manju",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_55",
@@ -1181,7 +1181,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "duanju55",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_huasheng",
@@ -1194,7 +1194,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "huasheng",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "少儿动漫专区",
@@ -1214,7 +1214,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "xifan",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_modu",
@@ -1227,7 +1227,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "modu",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_dmbus",
@@ -1240,7 +1240,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "dmbus",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_mutefun",
@@ -1253,7 +1253,7 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "mutefun",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "csp_XyDuanju_rk2",
@@ -1266,14 +1266,14 @@
       "playerType": 2,
       "changeable": 0,
       "ext": "rk2",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "drpy_js_huya_live",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/drpy2_live.min.js",
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/huya_live.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/drpy2_live.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/huya_live.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1289,8 +1289,8 @@
       "key": "drpy_js_douyu_live",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/drpy2_live.min.js",
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/douyu_live.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/drpy2_live.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/douyu_live.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1306,8 +1306,8 @@
       "key": "drpy_js_bili_live",
       "name": "🅱哔哩┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/drpy2_live.min.js",
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/bili_live.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/drpy2_live.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/bili_live.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1326,7 +1326,7 @@
       "api": "csp_SportAiFeiQiuGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
       "style": {
         "type": "list"
       }
@@ -1338,7 +1338,7 @@
       "api": "csp_SportAiGuaZiGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
       "style": {
         "type": "list"
       }
@@ -1350,7 +1350,7 @@
       "api": "csp_SportAiKanQiuTongGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
       "style": {
         "type": "list"
       }
@@ -1362,7 +1362,7 @@
       "api": "csp_SportAiKanqiuGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916"
     },
     {
       "key": "SportAiKaFei",
@@ -1371,7 +1371,7 @@
       "api": "csp_SportAiKaFeiGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
       "style": {
         "type": "list"
       }
@@ -1383,7 +1383,7 @@
       "api": "csp_SportAiWweGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_newwex.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
       "style": {
         "type": "list"
       }
@@ -1396,8 +1396,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/美食合集.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/美食合集.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xiqu",
@@ -1407,8 +1407,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨戏曲.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨戏曲.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_jieshuo",
@@ -1418,8 +1418,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨解说.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨解说.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yinyue",
@@ -1429,8 +1429,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E9%9F%B3%E4%B9%90.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E9%9F%B3%E4%B9%90.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_qiuxing",
@@ -1440,8 +1440,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨球星.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨球星.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_wudao",
@@ -1451,8 +1451,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨舞蹈.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨舞蹈.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_huwai",
@@ -1462,8 +1462,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨户外.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨户外.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_dapei",
@@ -1473,8 +1473,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨搭配.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨搭配.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_tuxiaobei",
@@ -1485,7 +1485,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "tuxiaobei",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_tuxiaobei2",
@@ -1496,7 +1496,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "tuxiaobei2",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_erge",
@@ -1506,8 +1506,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨儿歌合集.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨儿歌合集.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_youerqimeng",
@@ -1517,8 +1517,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/幼儿启蒙.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/幼儿启蒙.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yizhi",
@@ -1528,8 +1528,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/益智动画.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/益智动画.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_youxiao",
@@ -1539,8 +1539,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%B9%BC%E5%B0%8F%E8%A1%94%E6%8E%A5.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%B9%BC%E5%B0%8F%E8%A1%94%E6%8E%A5.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_hb",
@@ -1550,8 +1550,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%BB%98%E6%9C%AC%E5%85%B1%E8%AF%BB.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%BB%98%E6%9C%AC%E5%85%B1%E8%AF%BB.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_pinyin",
@@ -1561,8 +1561,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童拼音.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童拼音.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_shizi",
@@ -1572,8 +1572,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童识字.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童识字.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_erying",
@@ -1583,8 +1583,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童英语.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童英语.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yingbi",
@@ -1594,8 +1594,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童硬笔.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童硬笔.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_siwei",
@@ -1605,8 +1605,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童思维.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童思维.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_koucai",
@@ -1616,8 +1616,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童口才.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童口才.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_biancheng",
@@ -1627,8 +1627,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童编程.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童编程.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_wushu",
@@ -1638,8 +1638,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童武术.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童武术.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xingqu",
@@ -1649,8 +1649,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/兴趣培养.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/兴趣培养.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_dengta",
@@ -1660,8 +1660,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔百科.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔百科.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_dengta_kexue",
@@ -1671,8 +1671,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔科学.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔科学.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_dengta_dili",
@@ -1682,8 +1682,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔地理.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔地理.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_dengta_renwen",
@@ -1693,8 +1693,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔人文.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/小灯塔人文.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_shaoer",
@@ -1704,8 +1704,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/少儿教育.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/少儿教育.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_youerle",
@@ -1715,8 +1715,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/幼儿乐园.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/幼儿乐园.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_ertongle",
@@ -1726,8 +1726,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童乐园.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/儿童乐园.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xiaoxue",
@@ -1737,8 +1737,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%AD%A6.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%AD%A6.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_chuzhong",
@@ -1748,8 +1748,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%88%9D%E4%B8%AD.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%88%9D%E4%B8%AD.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_gaozhong",
@@ -1759,8 +1759,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E4%B8%AD.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E4%B8%AD.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_slj",
@@ -1770,8 +1770,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%9B%9B%E5%85%AD%E7%BA%A7.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%9B%9B%E5%85%AD%E7%BA%A7.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_jsfz",
@@ -1781,8 +1781,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xsf",
@@ -1792,8 +1792,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AD%A6%E7%94%9F%E6%96%B9%E6%B3%95.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AD%A6%E7%94%9F%E6%96%B9%E6%B3%95.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yecz",
@@ -1803,8 +1803,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%B9%BC%E5%84%BF%E6%88%90%E9%95%BF.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%B9%BC%E5%84%BF%E6%88%90%E9%95%BF.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_whsy",
@@ -1814,8 +1814,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%96%87%E5%8C%96%E7%B4%A0%E5%85%BB.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%96%87%E5%8C%96%E7%B4%A0%E5%85%BB.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_shyh",
@@ -1825,8 +1825,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%94%9F%E6%B4%BB%E5%85%BB%E6%8A%A4.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%94%9F%E6%B4%BB%E5%85%BB%E6%8A%A4.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_sgsy",
@@ -1836,8 +1836,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%89%8B%E5%B7%A5%E6%91%84%E5%BD%B1.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%89%8B%E5%B7%A5%E6%91%84%E5%BD%B1.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_flkp",
@@ -1847,8 +1847,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%B3%95%E5%BE%8B%E7%A7%91%E6%99%AE.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%B3%95%E5%BE%8B%E7%A7%91%E6%99%AE.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_cjzc",
@@ -1858,8 +1858,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%B4%A2%E7%BB%8F%E8%81%8C%E5%9C%BA.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%B4%A2%E7%BB%8F%E8%81%8C%E5%9C%BA.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_jkys",
@@ -1869,8 +1869,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%81%A5%E5%BA%B7%E5%85%BB%E7%94%9F.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%81%A5%E5%BA%B7%E5%85%BB%E7%94%9F.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_kjcc",
@@ -1880,8 +1880,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%80%83%E5%AD%A3%E5%86%B2%E5%88%BA.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%80%83%E5%AD%A3%E5%86%B2%E5%88%BA.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_dfzt",
@@ -1891,8 +1891,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%9C%B0%E6%96%B9%E7%9C%9F%E9%A2%98.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%9C%B0%E6%96%B9%E7%9C%9F%E9%A2%98.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_jizk",
@@ -1902,8 +1902,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AE%B6%E9%95%BF%E8%AF%BE%E5%A0%82.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AE%B6%E9%95%BF%E8%AF%BE%E5%A0%82.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xqbk",
@@ -1913,8 +1913,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%85%B4%E8%B6%A3%E7%99%BE%E7%A7%91.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%85%B4%E8%B6%A3%E7%99%BE%E7%A7%91.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_shjk",
@@ -1924,8 +1924,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%94%9F%E6%B4%BB%E5%81%A5%E5%BA%B7.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%94%9F%E6%B4%BB%E5%81%A5%E5%BA%B7.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_bgsj",
@@ -1935,8 +1935,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%8A%9E%E5%85%AC%E8%AE%BE%E8%AE%A1.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%8A%9E%E5%85%AC%E8%AE%BE%E8%AE%A1.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_zwyd",
@@ -1946,8 +1946,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E4%BD%9C%E6%96%87%E9%98%85%E8%AF%BB.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E4%BD%9C%E6%96%87%E9%98%85%E8%AF%BB.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yyjx",
@@ -1957,8 +1957,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%8B%B1%E8%AF%AD%E4%B8%93%E9%A1%B9.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%8B%B1%E8%AF%AD%E4%B8%93%E9%A1%B9.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_tbkb",
@@ -1968,8 +1968,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%90%8C%E6%AD%A5%E8%AF%BE%E6%9C%AC.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%90%8C%E6%AD%A5%E8%AF%BE%E6%9C%AC.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yuwen",
@@ -1979,8 +1979,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%AF%AD%E6%96%87%E5%90%88%E9%9B%86.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%AF%AD%E6%96%87%E5%90%88%E9%9B%86.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_shuxue",
@@ -1990,8 +1990,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%95%B0%E5%AD%A6%E5%90%88%E9%9B%86.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E6%95%B0%E5%AD%A6%E5%90%88%E9%9B%86.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yingyu",
@@ -2001,8 +2001,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%8B%B1%E8%AF%AD%E5%90%88%E9%9B%86.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%8B%B1%E8%AF%AD%E5%90%88%E9%9B%86.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_likex",
@@ -2012,8 +2012,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%90%86%E5%8C%96%E5%90%88%E9%9B%86.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%90%86%E5%8C%96%E5%90%88%E9%9B%86.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_wenke",
@@ -2023,8 +2023,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%8F%B2%E5%9C%B0%E6%94%BF%E5%90%88%E9%9B%86.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%8F%B2%E5%9C%B0%E6%94%BF%E5%90%88%E9%9B%86.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_syk",
@@ -2034,8 +2034,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AE%9E%E9%AA%8C%E8%AF%BE.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_zsd",
@@ -2045,8 +2045,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%9F%A5%E8%AF%86%E7%82%B9%E4%B8%93%E9%A1%B9.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%9F%A5%E8%AF%86%E7%82%B9%E4%B8%93%E9%A1%B9.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_jq",
@@ -2056,8 +2056,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AF%92%E6%9A%91%E5%81%87.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AF%92%E6%9A%91%E5%81%87.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xsc",
@@ -2067,8 +2067,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%B0%8F%E5%8D%87%E5%88%9D%E4%B8%93%E9%A1%B9.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%B0%8F%E5%8D%87%E5%88%9D%E4%B8%93%E9%A1%B9.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_zk",
@@ -2078,8 +2078,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E4%B8%AD%E8%80%83%E4%B8%93%E9%A1%B9.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E4%B8%AD%E8%80%83%E4%B8%93%E9%A1%B9.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_gk",
@@ -2089,8 +2089,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E9%AB%98%E8%80%83%E4%B8%93%E9%A1%B9.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E9%AB%98%E8%80%83%E4%B8%93%E9%A1%B9.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_js",
@@ -2100,8 +2100,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%AB%9E%E8%B5%9B%E5%BC%BA%E5%9F%BA.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%AB%9E%E8%B5%9B%E5%BC%BA%E5%9F%BA.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_yk",
@@ -2111,8 +2111,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%89%BA%E8%80%83%E4%B8%93%E9%A1%B9.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%89%BA%E8%80%83%E4%B8%93%E9%A1%B9.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_ky",
@@ -2122,8 +2122,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%80%83%E7%A0%94%E4%B8%93%E9%A1%B9.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%80%83%E7%A0%94%E4%B8%93%E9%A1%B9.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_gkss",
@@ -2133,8 +2133,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%85%AC%E8%80%83%E4%BA%8B%E4%B8%9A.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%85%AC%E8%80%83%E4%BA%8B%E4%B8%9A.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_zj",
@@ -2144,8 +2144,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%81%8C%E6%95%99%E8%80%83%E8%AF%81.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E8%81%8C%E6%95%99%E8%80%83%E8%AF%81.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_jk",
@@ -2155,8 +2155,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E9%A9%BE%E8%80%83.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E9%A9%BE%E8%80%83.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xlw",
@@ -2166,8 +2166,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AD%A6%E5%8E%86%E8%AE%BA%E6%96%87.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AD%A6%E5%8E%86%E8%AE%BA%E6%96%87.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_wy",
@@ -2177,8 +2177,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%A4%96%E8%AF%AD%E6%8F%90%E5%8D%87.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%A4%96%E8%AF%AD%E6%8F%90%E5%8D%87.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_bc",
@@ -2188,8 +2188,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%BC%96%E7%A8%8B%E5%88%9B%E5%AE%A2.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%BC%96%E7%A8%8B%E5%88%9B%E5%AE%A2.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_mz",
@@ -2199,8 +2199,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%90%8D%E8%91%97%E7%B2%BE%E8%AE%B2.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%90%8D%E8%91%97%E7%B2%BE%E8%AE%B2.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_bwg",
@@ -2210,8 +2210,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%8D%9A%E7%89%A9%E9%A6%86.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%8D%9A%E7%89%A9%E9%A6%86.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_aq",
@@ -2221,8 +2221,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AE%89%E5%85%A8%E6%80%A5%E6%95%91.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AE%89%E5%85%A8%E6%80%A5%E6%95%91.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xl",
@@ -2232,8 +2232,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_shjn",
@@ -2243,8 +2243,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%94%9F%E6%B4%BB%E6%8A%80%E8%83%BD.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%94%9F%E6%B4%BB%E6%8A%80%E8%83%BD.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xxff",
@@ -2254,8 +2254,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_sz",
@@ -2265,8 +2265,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%B4%A0%E8%B4%A8%E5%85%B4%E8%B6%A3.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E6%99%93%E9%9B%A8%E7%B4%A0%E8%B4%A8%E5%85%B4%E8%B6%A3.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_dongwu",
@@ -2276,8 +2276,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨动物世界.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/晓雨动物世界.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     },
     {
       "key": "xy_xiaoyu_xuexi",
@@ -2287,8 +2287,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json",
-      "jar": "https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/lib/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xy1693838438-ux/thyc/main/xy_dygang.jar;09bee084e2b767dfcaff8285dd005b73"
     }
   ],
   "parses": [
